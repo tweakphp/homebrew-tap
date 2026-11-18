@@ -1,6 +1,6 @@
 cask "tweakphp" do
   version "0.15.0"
-  sha256 "d5518c152cea8c26e528ecda21d3d2a93c346faca9f3097f1d15b71d6551c55c"
+  sha256 "51601c361ae82595f7f176c1ba6407749bce80c8d5536f37786d7e932851f1b5"
 
   url "https://github.com/tweakphp/tweakphp/releases/download/v#{version}/TweakPHP-#{version}-universal.dmg"
   name "TweakPHP"
